@@ -1,16 +1,26 @@
-### Hi there 👋
+#### Hello, I'm Sidhayan D 👋
 
-<!--
-**sidhayan/sidhayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  👨‍💻 Computer Science Engineer
+-  💻 Tech Enthusiast
+  
+- 👩🏻‍🚀 I’m  Interested and 🚀 Always ready for a new coding adventure.
+- 👯 I’m looking to collaborate on Something different and  new ideas
+  
+-  👨🏻‍💻 Learned and Learning about
+-  Artificial Intelligence
+-  Machine learning
+-  Deep learning
+-  Data Analytics
+-  Data Science
+-  Web Development
+-  LLM
+-  Cloud
+-  Blockchain Technologies
+-  Data mining
+  
+- 📫Find Me: [LinkedIn] https://www.linkedin.com/in/sidhayan/
+  
+- ⚡ Fun fact:
+- 🎵 I listen to music when I am coding.
+- 🔃I hate Traditional methods patterns and loops but always inside the loops😫
