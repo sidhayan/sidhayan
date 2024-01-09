@@ -16,7 +16,7 @@
 -  Web Development
 -  LLM
 -  Cloud
--  Blockchain Technologies
+-  Blockchain
 -  Data mining
   
 - 📫Find Me: [LinkedIn] https://www.linkedin.com/in/sidhayan/
