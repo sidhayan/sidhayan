@@ -47,16 +47,24 @@ I thrive on crafting unique tools at the intersection of **AI × Creativity** an
 
 ## 🔧 Tech Stack & Tools
 
-\`\`\`
+**Languages:**  
+Python • JavaScript • HTML5 • CSS • Bash
 
-Languages     : Python | JavaScript | HTML5 | CSS | Bash
-Frameworks    : Flask | React | Node.js | Bootstrap | Tailwind
-AI/ML         : TensorFlow | scikit-learn | OpenCV | NLTK | LangChain
-Data          : Pandas | NumPy | SQL | MongoDB | Excel
-Cloud & DevOps: AWS | Firebase | Git | GitHub | Docker
-Others        : Figma | Canva | VS Code | Jupyter 
+**Frameworks:**  
+Flask • React • Node.js • Bootstrap • Tailwind
 
-\`\`\`
+**AI / ML:**  
+TensorFlow • scikit-learn • OpenCV • NLTK • LangChain
+
+**Data:**  
+Pandas • NumPy • SQL • MongoDB • Excel
+
+**Cloud & DevOps:**  
+AWS • Firebase • Git • GitHub • Docker
+
+**Others:**  
+Figma • Canva • VS Code • Jupyter
+
 
 ---
 
