@@ -33,7 +33,7 @@ I thrive on crafting unique tools at the intersection of **AI × Creativity** an
 ## 💬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sidhayan/)  
-- 📫 Email coming soon
+- 📫 sidhayand@gmail.com
 
 ---
 
@@ -48,12 +48,14 @@ I thrive on crafting unique tools at the intersection of **AI × Creativity** an
 ## 🔧 Tech Stack & Tools
 
 \`\`\`
+
 Languages     : Python | JavaScript | HTML5 | CSS | Bash
 Frameworks    : Flask | React | Node.js | Bootstrap | Tailwind
 AI/ML         : TensorFlow | scikit-learn | OpenCV | NLTK | LangChain
 Data          : Pandas | NumPy | SQL | MongoDB | Excel
 Cloud & DevOps: AWS | Firebase | Git | GitHub | Docker
-Others        : Figma | Canva | VS Code | Jupyter | Google Apps Script
+Others        : Figma | Canva | VS Code | Jupyter 
+
 \`\`\`
 
 ---
